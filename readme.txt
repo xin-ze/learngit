@@ -4,3 +4,4 @@ def func()
 test --no-ff
 test dog
 new line1
+branch dev2 change
