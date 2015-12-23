@@ -5,3 +5,4 @@ test --no-ff
 test dog
 new line1
 branch dev2 change
+add a line by dev3 with --no-ff
